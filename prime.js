@@ -1,5 +1,5 @@
 let Num=13;
-for(let i=i;i<Num ;i++){
+for(let i=2;i<Num ;i++){
     if(Num%i==0){
         break;
     }
